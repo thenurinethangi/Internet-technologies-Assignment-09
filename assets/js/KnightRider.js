@@ -82,11 +82,11 @@ async function looping(nextBox) {
                     break;
                 }
 
-                await delay(100);
+                await delay(70);
             }
         }
 
-        await delay(100);
+        await delay(70);
     }
 }
 
